@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>Mi primera pagina web para Coursera</title>
+</head>
+<body bgcolor="pink">
+<h1>Hola, este es mi sitio de Coursera</h1>
+<h2>IPC Jornada Vespertina</h2>
+<h3>Jesika Siomara Us Zapeta</h3>
+<h5>5to Bachillerato en computación</h5>
+<h4>Lista De Aptitudes</h4>
+<hr>
+<ol>
+<li>Planificación </li>
+<li>Iniciativa</li>
+<li>Competencia </li>
+<li>Empatia</li>
+<li>Honestidad</li>
+<li>Lealtad</li>
+<li>Liderazgo</li>
+<li>Organizacion</li>
+<li>Paciencia </li>
+<li>Sencibilidad</li>
+</ol>
+<hr>
+<ul>
+<li>Resolución de problemas</li>
+<li>Motivación</li>
+<li>Tenacidad</li>
+<li>Seriedad</li>
+<li>Resistencia al estrés </li>
+<li>Puntualidad</li>
+<li>Actitud Positiva </li>
+<li>Trabajo en Equipo</li>
+<li>Rapidez </li>
+<li>Adaptación</li>
+
+</ul>
+<hr>
+<dl>
+  
+  <dt>Organizacion</dt>
+  <dd>Empatia </dd>
+  <dt>Paciencia</dt>
+  <dd>Cordialidad</dd>
+  <dt>Creatividad</dt>
+  <dd>Proactividad </dd>
+  <dt>Atención a los detalles</dt>
+  <dd>Flexibilidad</dd>
+  <dt>Resilencia</dt>
+  <dd>Integridad</dd>
+  </dl>
+<br>
+</body></html>
